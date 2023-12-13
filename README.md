@@ -9,5 +9,5 @@ Here's my notes and files for setting up a node-based devcontainer on vscode w/W
 
 - [Manage Docker and Kubernetes in VSCode](https://www.youtube.com/watch?v=huiQd2QojXY)
 
-- [Setting Up a Windows PC For Web Development: WSL, Git, Node.js, Docker, Oh My Zsh, & MySQL](Setting Up a Windows PC For Web Development: WSL, Git, Node.js, Docker, Oh My Zsh, & MySQL)
+- [Setting Up a Windows PC For Web Development: WSL, Git, Node.js, Docker, Oh My Zsh, & MySQL](https://www.youtube.com/watch?v=2TKh3aokgec)
   * [LearnWebCode ](https://gist.github.com/LearnWebCode)
